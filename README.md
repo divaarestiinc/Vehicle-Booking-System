@@ -56,7 +56,7 @@ Gunakan akun berikut untuk mencoba alur sistem secara lengkap:
 |---|---|---|
 | Admin | admin@mail.com | password |
 | Approver Level 1 | boss1@mail.com | password |
-| Approver Level 2 | boss2@mail.com | password |
+| Approver Level 2 | bos2@mail.com | password |
 
 ---
 
@@ -75,7 +75,7 @@ Gunakan akun berikut untuk mencoba alur sistem secara lengkap:
 ### 1. Clone Repository
 ```bash
 https://github.com/username/Vehicle-Booking-System.git
-cd sekawan-fleet-system
+cd vehicle-booking-system
 
 2. Install Dependency
 composer install
