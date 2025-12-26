@@ -1,6 +1,5 @@
 [build]
-builder = "RAILPACK"
+aptPackages = ["libpng-dev"]
 
-[build.env]
-PHP_EXTENSIONS = "gd"
-COMPOSER_FLAGS = "--ignore-platform-req=ext-gd"
+[build.extensions]
+php = ["gd"]
