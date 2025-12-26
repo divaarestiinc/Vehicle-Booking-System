@@ -3,3 +3,4 @@ builder = "RAILPACK"
 
 [build.env]
 PHP_EXTENSIONS = "gd"
+COMPOSER_FLAGS = "--ignore-platform-req=ext-gd"
