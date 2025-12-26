@@ -74,7 +74,7 @@ Gunakan akun berikut untuk mencoba alur sistem secara lengkap:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/sekawan-fleet-system.git
+https://github.com/username/Vehicle-Booking-System.git
 cd sekawan-fleet-system
 
 2. Install Dependency
