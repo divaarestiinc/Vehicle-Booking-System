@@ -74,7 +74,7 @@ Gunakan akun berikut untuk mencoba alur sistem secara lengkap:
 
 ### 1. Clone Repository
 ```bash
-https://github.com/username/Vehicle-Booking-System.git
+https://github.com/divarestiinc/Vehicle-Booking-System.git
 cd vehicle-booking-system
 
 2. Install Dependency
