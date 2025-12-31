@@ -33,7 +33,7 @@ Sistem ini mensimulasikan kebutuhan operasional perusahaan dalam pengelolaan pem
 ## 🛠️ Teknologi yang Digunakan
 - **Framework**: Laravel 12  
 - **Bahasa**: PHP 8.2+  
-- **Database**: MySQL 8.0  
+- **Database**: MySQL 8.2 
 - **UI Framework**: Bootstrap 5  
 - **Icon**: FontAwesome 6  
 - **Visualisasi Data**: Chart.js  
